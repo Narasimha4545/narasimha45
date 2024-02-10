@@ -3,3 +3,4 @@
 *.py
 *.php
 !important.py
+[aeiou]*.py
